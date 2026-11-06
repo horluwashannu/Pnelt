@@ -2,7 +2,7 @@
 
 header('Content-Type: application/json; charset=utf-8');
 
-$secretKey = '0x4AAAAAAEOCjnJccxO0x6FMINu_P0N0CKM';
+$secretKey = '0x4AAAAAAFwlemcBY4hTkfzBbALECOKt0Aw';
 
 $token = $_POST['cf-turnstile-response'] ?? '';
 
